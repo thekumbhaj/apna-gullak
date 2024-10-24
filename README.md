@@ -49,7 +49,7 @@ Stripe is being used in this project, so you also need the Credentials for the s
  Clone Repo 
 
 ```bash
-  git clone https://github.com/Ashish1322/apnagullak.git
+ https://github.com/thekumbhaj/apna-gullak.git
 ```
 
 Install dependencies for project
