@@ -122,6 +122,6 @@ Start Project
 
 
 ## Meet-Kumbhaj
-- [@planetkumbhaj](https://github.com/theKumbhaj)
+- [@thekumbhaj](https://github.com/theKumbhaj)
 
 
